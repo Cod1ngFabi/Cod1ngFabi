@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cod1ngFabi
-- 👀 I’m interested in Web Development, NFL and Soccer. For now i am studying Buisness Informatics in Germany. 
-- 🌱 I’m currently learning JAVA & Web Development. 
-- 💞️ I’m looking to collaborate with passionate programmers, who want do code some ideas / projects with me.
+- 👀 I’m interested in Web Development, NFL and playing the Piano. I studied business informatics and graduated in August 2024.
+- 🌱 I’m interested in any Web technologies and search for a new job and challenge. 
 - 📫 How to reach me: biedererfabian@gmx.de
 
 <!---
